@@ -1,0 +1,6 @@
+step1 create a new database "crud in phpmyadmin
+step2 crate a table user with fields id name location
+step3 create a folder "rest-api
+step4 npm init 
+npm install --save express mysql body-parser
+npm install -g nodemon
